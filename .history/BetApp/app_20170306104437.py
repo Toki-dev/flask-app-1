@@ -1,6 +1,6 @@
 from flask import Flask
 
-from betapp.blueprints.page import page
+from BetApp.blueprints.page import page
 
 
 def create_app():
